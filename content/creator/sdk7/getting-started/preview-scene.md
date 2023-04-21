@@ -10,10 +10,10 @@ url: /creator/development-guide/sdk7/preview-scene/
 weight: 4
 ---
 
-Once you have [built a new scene](https://docs.decentraland.org/#create-your-first-scene) or downloaded a [scene example](https://github.com/decentraland-scenes/Awesome-Repository#examples) you can preview it locally.
+Once you have [built a new scene](https://docs.decentraland.org/#create-your-first-scene) or downloaded a [scene example](https://github.com/decentraland-scenes/Awesome-Repository#examples) you can preview it locally. Here are 2 different options you can use to preview your scene.
 
 
-## Using the editor
+## Option 1: Using the editor
 
 To run a scene preview using the Decentraland Editor:
 
@@ -32,7 +32,7 @@ Make sure you've [installed the Decentraland editor]({{< ref "/content/creator/s
 
 Optionally click **Open in browser**, over the top margin of the tab to run the preview in a web browser window.
 
-## Using the CLI
+## Option 2: Using the CLI
 
 ### Before you begin
 
